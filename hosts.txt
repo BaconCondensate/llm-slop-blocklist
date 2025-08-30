@@ -1,0 +1,2 @@
+0.0.0.0 https://www.geeky-gadgets.com
+0.0.0.0 https://blog.ovexro.com
